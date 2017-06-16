@@ -1,0 +1,7 @@
+1 首先你的电脑安装有Python并且加入环境变量 
+2 下载https://pypi.python.org/packages/source/p/pip/pip-7.1.2.tar.gz  对  还是这个包 
+3 解压  然后cmd进入这个解压包内的目录 
+4 Python setup.py  install 
+5 安装完pip之后   安装mycli 
+6 执行pip install mycli 
+7 使用  mycli -h localhost -u root   与Linux相同
